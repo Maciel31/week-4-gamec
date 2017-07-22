@@ -1,0 +1,144 @@
+h1{
+	color:black;
+	display: block;
+	height: 40px;
+	width: 300px;
+	border: 25px;
+	padding:40px;
+	background-color: #ADFF2F;
+	text-align: left;
+}
+
+.instructions{
+	background-color: purple;
+	width: 300px;
+	padding: 40px;
+	margin-bottom: 20px;
+	height: 80px;
+	text-align: center;
+}
+body{
+	background-color:#40E0D0;
+	margin: 30px;
+}
+
+.paragrafos{
+	color:black;
+	display: block;
+	height: 300px;
+	width: 400px;
+	border: 25px;
+	padding:40px;
+	background-color: #E9967A;
+	text-align: left;
+
+}
+
+.numberToMatch{color:black;
+	display: block;
+	height: 80px;
+	width: 150px;
+	border: 25px;
+	padding:40px;
+	background-color: #6A5ACD;
+	text-align: left;
+}
+.winsAndLosses{color:black;
+	display: block;
+	height: 80px;
+	width: 180px;
+	border: 25px;
+	padding:40px;
+	background-color: #FFD700;
+	text-align: left;
+	padding-top: 20px;
+	margin-top: 20px;
+}
+.userTotal{color:black;
+	display: block;
+	height: 80px;
+	width: 210px;
+	border: 25px;
+	padding:40px;
+	background-color:#FF4500;
+	text-align: left;
+	padding-top: 20px;
+	margin-top: 20px;
+
+}
+	
+.cores{
+	display: inline;h1{
+	color:black;
+	display: block;
+	height: 40px;
+	width: 300px;
+	border: 25px;
+	padding:40px;
+	background-color: #ADFF2F;
+	text-align: left;
+}
+
+.instructions{
+	background-color: purple;
+	width: 300px;
+	padding: 40px;
+	margin-bottom: 20px;
+	height: 80px;
+	text-align: center;
+}
+body{
+	background-color:#40E0D0;
+	margin: 30px;
+}
+
+.paragrafos{
+	color:black;
+	display: block;
+	height: 300px;
+	width: 400px;
+	border: 25px;
+	padding:40px;
+	background-color: #E9967A;
+	text-align: left;
+
+}
+
+.numberToMatch{color:black;
+	display: block;
+	height: 80px;
+	width: 150px;
+	border: 25px;
+	padding:40px;
+	background-color: #6A5ACD;
+	text-align: left;
+}
+.winsAndLosses{color:black;
+	display: block;
+	height: 80px;
+	width: 180px;
+	border: 25px;
+	padding:40px;
+	background-color: #FFD700;
+	text-align: left;
+	padding-top: 20px;
+	margin-top: 20px;
+}
+.userTotal{color:black;
+	display: block;
+	height: 80px;
+	width: 210px;
+	border: 25px;
+	padding:40px;
+	background-color:#FF4500;
+	text-align: left;
+	padding-top: 20px;
+	margin-top: 20px;
+
+}
+	
+.cores{
+	display: inline;
+	margin-top: 20px;
+}
+}
